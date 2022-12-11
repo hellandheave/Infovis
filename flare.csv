@@ -1,0 +1,101 @@
+id,value
+flare,
+flare.Rosalia Larroque,
+flare.Rosalia Larroque.calls,
+flare.Rosalia Larroque.calls.Kerstin Belveal,3938
+flare.Rosalia Larroque.calls.Lindsy Henion,3812
+flare.Rosalia Larroque.calls.Meryl Pastuch,6714
+flare.Rosalia Larroque.calls.Jenice Savaria,743
+flare.Rosalia Larroque.calls.Augusta Sharp,3534
+flare.Rosalia Larroque.emails,
+flare.Rosalia Larroque.emails.Kerstin Belveal,5731
+flare.Rosalia Larroque.emails.Richard Fox,7840
+flare.Rosalia Larroque.emails.Lindsy Henion,5914
+flare.Rosalia Larroque.emails.Meryl Pastuch,3416
+flare.Rosalia Larroque.purchases,
+flare.Rosalia Larroque.purchases.Jenice Savaria,7074
+
+flare.Kerstin Belveal,
+flare.Kerstin Belveal.calls,
+flare.Kerstin Belveal.calls.Ramiro Gault,5842
+flare.Kerstin Belveal.calls.Augusta sharp,2047
+flare.Kerstin Belveal.calls.Jose Ringwald,1375
+flare.Kerstin Belveal.calls.Kerstin Belveal,8746
+flare.Kerstin Belveal.calls.Rosalia Larroque,2202
+flare.Kerstin Belveal.emails,
+flare.Kerstin Belveal.emails.Augusta Sharp,1382
+flare.Kerstin Belveal.emails.Jose Ringwald,1629
+flare.Kerstin Belveal.emails.Lindsy Henion,1675
+flare.Kerstin Belveal.emails.Rosalia Larroque,2042
+
+flare.Richard Fox,
+flare.Richard Fox.calls,
+flare.Richard Fox.calls.Kerstin Belveal,1041
+flare.Richard Fox.calls.Patrick Lane,5176
+flare.Richard Fox.calls.Lindsy Henion,449
+flare.Richard Fox.calls.Meryl Pastuch,5593
+flare.Richard Fox.calls.Glen Grant,5534
+flare.Richard Fox.emails,
+flare.Richard Fox.emails.May Burton,1116
+flare.Richard Fox.emails.Tobi Gatlin,721
+flare.Richard Fox.emails.Patrick Lane,2220
+flare.Richard Fox.emails.Meryl Pastuch,3322
+flare.Richard Fox.meetings,
+flare.Richard Fox.meetings.Kerstin Belveal,1732
+flare.Richard Fox.meetings.Meryl Pastuch,3623
+flare.Richard Fox.meetings.Julie Tierno,4116
+
+flare.Meryl Pastuch,
+flare.Meryl Pastuch.calls,
+flare.Meryl Pastuch.calls.Dylan Ballard,1336
+flare.Meryl Pastuch.calls.Lindsy Henion,319
+flare.Meryl Pastuch.calls.Rosalia Larroque,2822
+flare.Meryl Pastuch.emails,
+flare.Meryl Pastuch.emails.Richard Fox,2213
+flare.Meryl Pastuch.emails.Lindsy Henion,1681
+flare.Meryl Pastuch.emails.Glen Grant,4294
+flare.Meryl Pastuch.emails.Rosalia Larroque,1616
+flare.Meryl Pastuch.meetings,
+flare.Meryl Pastuch.meetings.Rosalia Larroque,1027
+
+flare.Lindsy Henion,
+flare.Lindsy Henion.calls,
+flare.Lindsy Henion.calls.Richard Fox,3891
+flare.Lindsy Henion.calls.Dylan Ballard,2893
+flare.Lindsy Henion.calls.Sara Ballard,5103
+flare.Lindsy Henion.calls.Meryl Pastuch,3677
+flare.Lindsy Henion.calls.Rosalia Larroque,4141
+flare.Lindsy Henion.emails,
+flare.Lindsy Henion.emails.Melita Scarpaci,933
+flare.Lindsy Henion.emails.Augusta Sharp,5103
+flare.Lindsy Henion.emails.Lizbeth Jindra,3677
+flare.Lindsy Henion.emails.Dylan Ballard,781
+flare.Lindsy Henion.emails.Rosalia Larroque,933
+flare.Lindsy Henion.meetings,
+flare.Lindsy Henion.meetings.Kerstin Belveal,3617
+
+flare.Augusta Sharp
+flare.Augusta Sharp.calls,
+flare.Augusta Sharp.calls.Melita Scarpaci,3240
+flare.Augusta Sharp.calls.Kerstin Belveal,2732
+flare.Augusta Sharp.calls.Lindsy Henion,2039
+flare.Augusta Sharp.calls.Meryl Pastuch,1214
+flare.Augusta Sharp.calls.Rosalia Larroque,3748
+flare.Augusta Sharp.emails,
+flare.Augusta Sharp.emails.Melita Scarpaci,843
+flare.Augusta Sharp.emails.Dylan Ballard,593
+flare.Augusta Sharp.emails.Julie Tierno,330
+
+flare.Jose Ringwald
+flare.Jose Ringwald.calls,
+flare.Jose Ringwald.calls.Refugio Orrantia,595
+flare.Jose Ringwald.calls.Ramiro Gault,460
+flare.Jose Ringwald.calls.Kerstin Belveal,619
+flare.Jose Ringwald.calls.Tobi Gatlin,597
+flare.Jose Ringwald.emails,
+flare.Jose Ringwald.emails.Ramiro Gault,600
+flare.Jose Ringwald.emails.Kerstin Belveal,1554
+flare.Jose Ringwald.emails.Tobi Gatlin,970
+flare.Jose Ringwald.emails.Lindsy Henion,1594
+flare.Jose Ringwald.emails.Glen Grant,4130
+flare.Jose Ringwald.emails.Julie Tierno,1124
