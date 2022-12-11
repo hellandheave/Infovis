@@ -1,144 +1,144 @@
-type,date_time,source,destination
-Meetings,5/1/2016 13:12,Richard Fox,Kerstin Belveal
-Meetings,8/29/2017 12:12,Richard Fox,Meryl Pastuch
-Meetings,11/8/2015 8:00,Richard Fox,Julie Tierno
-Emails,11/25/2015 22:38,Richard Fox,May Burton
-Emails,1/15/2016 13:38,Richard Fox,Tobi Gatlin
-Emails,6/4/2016 0:38,Richard Fox,Patrick Lane
-Emails,6/10/2016 16:38,Richard Fox,Meryl Pastuch
-Emails,11/18/2015 13:38,Richard Fox,Rosalia Larroque
-Calls,11/8/2015 11:03,Richard Fox,Kerstin Belveal
-Calls,5/2/2016 16:58,Richard Fox,Kerstin Belveal
-Calls,4/12/2016 0:01,Richard Fox,Patrick Lane
-Calls,11/4/2015 16:02,Richard Fox,Lindsy Henion
-Calls,4/26/2016 21:54,Richard Fox,Lindsy Henion
-Calls,4/26/2016 21:54,Richard Fox,Meryl Pastuch
-Calls,4/26/2016 21:54,Richard Fox,Lindsy Henion
-Calls,4/26/2016 21:54,Richard Fox,Meryl Pastuch
-Calls,3/9/2016 15:14,Richard Fox,Glen Grant
-Calls,11/4/2015 18:21,Richard Fox,Meryl Pastuch
-Meetings,8/8/2017 16:05,Lindsy Henion,Kerstin Belveal
-Emails,1/18/2016 13:38,Lindsy Henion,Melita Scarpaci
-Emails,2/2/2016 17:38,Lindsy Henion,Augusta Sharp
-Emails,4/14/2017 22:18,Lindsy Henion,Augusta Sharp
-Emails,3/24/2016 3:38,Lindsy Henion,Lizbeth Jindra
-Emails,12/21/2015 22:38,Lindsy Henion,Dylan Ballard
-Emails,11/14/2015 1:38,Lindsy Henion,Rosalia Larroque
-Calls,12/20/2016 4:32,Lindsy Henion,Richard Fox
-Calls,12/17/2015 10:50,Lindsy Henion,Dylan Ballard
-Calls,7/14/2016 20:57,Lindsy Henion,Sara Ballard
-Calls,2/20/2016 6:14,Lindsy Henion,Meryl Pastuch
-Calls,8/17/2016 11:30,Lindsy Henion,Rosalia Larroque
-Meetings,9/3/2017 3:18,Meryl Pastuch,Rosalia Larroque
-Emails,1/2/2016 21:38,Meryl Pastuch,Richard Fox
-Emails,8/16/2016 21:38,Meryl Pastuch,Lindsy Henion
-Emails,11/23/2015 19:38,Meryl Pastuch,Glen Grant
-Emails,12/10/2015 10:38,Meryl Pastuch,Rosalia Larroque
-Emails,12/11/2015 1:38,Meryl Pastuch,Rosalia Larroque
-Emails,3/8/2016 22:38,Meryl Pastuch,Rosalia Larroque
-Calls,12/6/2015 17:55,Meryl Pastuch,Dylan Ballard
-Calls,3/15/2016 11:49,Meryl Pastuch,Lindsy Henion
-Calls,10/23/2016 7:38,Meryl Pastuch,Lindsy Henion
-Calls,11/8/2015 7:22,Meryl Pastuch,Rosalia Larroque
-Calls,11/20/2015 3:06,Meryl Pastuch,Rosalia Larroque
-Emails,5/17/2016 20:38,Jose Ringwald,Ramiro Gault
-Emails,12/31/2015 21:38,Jose Ringwald,Kerstin Belveal
-Emails,1/23/2016 2:38,Jose Ringwald,Tobi Gatlin
-Emails,11/22/2017 4:38,Jose Ringwald,Lindsy Henion
-Emails,6/24/2016 14:38,Jose Ringwald,Glen Grant
-Emails,11/12/2016 4:38,Jose Ringwald,Julie Tierno
-Calls,11/9/2015 6:02,Jose Ringwald,Refugio Orrantia
-Calls,11/16/2015 18:20,Jose Ringwald,Ramiro Gault
-Calls,12/17/2016 1:51,Jose Ringwald,Kerstin Belveal
-Calls,7/25/2016 7:35,Jose Ringwald,Tobi Gatlin
-Emails,2/17/2017 5:38,Kerstin Belveal,Augusta Sharp
-Emails,12/28/2016 20:38,Kerstin Belveal,Jose Ringwald
-Emails,11/9/2015 23:38,Kerstin Belveal,Lindsy Henion
-Emails,5/1/2016 22:38,Kerstin Belveal,Lindsy Henion
-Emails,6/6/2016 15:38,Kerstin Belveal,Lindsy Henion
-Emails,6/7/2016 11:38,Kerstin Belveal,Lindsy Henion
-Emails,9/14/2017 18:32,Kerstin Belveal,Rosalia Larroque
-Emails,9/14/2017 20:57,Kerstin Belveal,Rosalia Larroque
-Calls,11/8/2015 8:38,Kerstin Belveal,Ramiro Gault
-Calls,5/7/2016 2:54,Kerstin Belveal,Augusta Sharp
-Calls,11/6/2015 18:23,Kerstin Belveal,Jose Ringwald
-Calls,9/14/2017 17:13,Kerstin Belveal,Kerstin Belveal
-Calls,9/14/2017 17:13,Kerstin Belveal,Rosalia Larroque
-Calls,9/14/2017 17:13,Rosalia Larroque,Kerstin Belveal
-Calls,9/14/2017 17:13,Rosalia Larroque,Rosalia Larroque
-Calls,9/20/2017 3:38,Kerstin Belveal,Kerstin Belveal
-Calls,9/20/2017 3:38,Kerstin Belveal,Rosalia Larroque
-Calls,9/20/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,9/20/2017 3:38,Rosalia Larroque,Rosalia Larroque
-Calls,9/20/2017 13:13,Kerstin Belveal,Rosalia Larroque
-Calls,9/22/2017 3:38,Kerstin Belveal,Rosalia Larroque
-Calls,10/22/2017 3:38,Kerstin Belveal,Rosalia Larroque
-Calls,10/24/2017 3:38,Kerstin Belveal,Rosalia Larroque
-Calls,10/25/2017 3:38,Kerstin Belveal,Rosalia Larroque
-Emails,5/3/2017 7:38,Patrick Lane,May Burton
-Emails,12/29/2015 19:38,Patrick Lane,Glen Grant
-Emails,11/10/2015 12:38,Patrick Lane,Sara Ballard
-Calls,11/18/2015 16:05,Patrick Lane,Richard Fox
-Emails,2/23/2016 15:38,Glen Grant,May Burton
-Emails,12/19/2015 13:38,Glen Grant,Alex Hall
-Emails,2/6/2016 12:38,Glen Grant,Jose Ringwald
-Emails,2/5/2016 20:38,Glen Grant,Patrick Lane
-Calls,12/9/2015 8:22,Glen Grant,Richard Fox
-Emails,12/9/2017 15:38,Sara Ballard,May Burton
-Emails,8/16/2017 20:40,Sara Ballard,Lindsy Henion
-Emails,6/26/2016 3:38,Sara Ballard,Glen Grant
-Calls,11/25/2015 9:35,Sara Ballard,Lindsy Henion
-Emails,3/10/2017 17:38,Ramiro Gault,Jose Ringwald
-Calls,7/6/2016 4:15,Ramiro Gault,Refugio Orrantia
-Calls,2/2/2016 11:41,Ramiro Gault,Jose Ringwald
-Calls,11/20/2015 11:44,Ramiro Gault,Kerstin Belveal
-Emails,8/20/2016 6:38,Tobi Gatlin,Jose Ringwald
-Emails,1/7/2016 6:38,Tobi Gatlin,Richard Fox
-Calls,8/15/2016 18:14,Tobi Gatlin,Refugio Orrantia
-Calls,4/30/2016 5:24,Tobi Gatlin,Ramiro Gault
-Calls,12/1/2015 6:04,Tobi Gatlin,Julie Tierno
-Emails,6/5/2016 3:38,Julie Tierno,Jose Ringwald
-Calls,3/26/2016 4:39,Julie Tierno,Alex Hall
-Calls,11/19/2015 7:28,Julie Tierno,Tobi Gatlin
-Emails,12/4/2016 22:38,Augusta Sharp,Kerstin Belveal
-Emails,5/19/2016 10:38,Augusta Sharp,Dylan Ballard
-Emails,5/24/2016 23:38,Augusta Sharp,Julie Tierno
-Calls,11/8/2015 11:18,Augusta Sharp,Melita Scarpaci
-Calls,2/11/2016 5:07,Augusta Sharp,Kerstin Belveal
-Calls,5/17/2016 15:48,Augusta Sharp,Lindsy Henion
-Calls,1/19/2016 22:32,Augusta Sharp,Meryl Pastuch
-Calls,12/7/2017 2:29,Augusta Sharp,Rosalia Larroque
-Emails,9/18/2017 4:33,Rosalia Larroque,Kerstin Belveal
-Emails,9/20/2017 12:07,Rosalia Larroque,Kerstin Belveal
-Emails,2/15/2016 2:38,Rosalia Larroque,Richard Fox
-Emails,11/15/2015 2:38,Rosalia Larroque,Lindsy Henion
-Emails,3/20/2016 21:38,Rosalia Larroque,Meryl Pastuch
-Calls,2/7/2016 10:33,Rosalia Larroque,Augusta Sharp
-Calls,4/29/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,5/1/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,9/23/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,9/24/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,9/26/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,9/29/2017 3:38,Rosalia Larroque,Kerstin Belveal
-Calls,2/27/2016 21:49,Rosalia Larroque,Lindsy Henion
-Calls,12/29/2015 18:33,Rosalia Larroque,Meryl Pastuch
-Calls,9/19/2017 22:05,Rosalia Larroque,Jenice Savaria
-Purchases,9/20/2017 14:45,Rosalia Larroque,Jenice Savaria
-Emails,5/24/2017 22:38,May Burton,Richard Fox
-Emails,12/10/2015 19:38,May Burton,Patrick Lane
-Emails,11/23/2015 23:38,May Burton,Glen Grant
-Emails,12/24/2015 17:38,May Burton,Sara Ballard
-Calls,12/23/2017 11:46,May Burton,Patrick Lane
-Emails,11/18/2015 8:38,Melita Scarpaci,Dylan Ballard
-Calls,11/7/2015 3:55,Melita Scarpaci,Dylan Ballard
-Emails,1/18/2016 18:38,Lizbeth Jindra,Lindsy Henion
-Emails,2/8/2016 19:38,Dylan Ballard,Lindsy Henion
-Emails,11/7/2015 9:38,Dylan Ballard,Meryl Pastuch
-Calls,11/6/2015 2:50,Dylan Ballard,Augusta Sharp
-Calls,12/10/2015 8:06,Dylan Ballard,Lindsy Henion
-Calls,11/21/2015 13:46,Dylan Ballard,Meryl Pastuch
-Calls,11/26/2015 8:15,Refugio Orrantia,Jose Ringwald
-Calls,9/18/2016 6:00,Refugio Orrantia,Tobi Gatlin
-Calls,11/6/2015 5:45,Refugio Orrantia,Julie Tierno
-Calls,11/12/2015 1:51,Alex Hall,Glen Grant
-Calls,4/24/2016 2:10,Alex Hall,Julie Tierno
+year,type,name,count,percent
+2016,Meetings,Richard Fox,2,0.013888889
+2017,Meetings,Richard Fox,1,0.006944444
+2015,Meetings,Richard Fox,5,0.034722222
+2015,Emails,Richard Fox,2,0.013888889
+2016,Emails,Richard Fox,1,0.006944444
+2016,Emails,Richard Fox,1,0.006944444
+2016,Emails,Richard Fox,1,0.006944444
+2015,Emails,Richard Fox,3,0.020833333
+2015,Calls,Richard Fox,5,0.034722222
+2016,Calls,Richard Fox,1,0.006944444
+2016,Calls,Richard Fox,1,0.006944444
+2015,Calls,Richard Fox,2,0.013888889
+2016,Calls,Richard Fox,4,0.027777778
+2016,Calls,Richard Fox,4,0.027777778
+2016,Calls,Richard Fox,4,0.027777778
+2016,Calls,Richard Fox,4,0.027777778
+2016,Calls,Richard Fox,1,0.006944444
+2015,Calls,Richard Fox,2,0.013888889
+2017,Meetings,Lindsy Henion,1,0.006944444
+2016,Emails,Lindsy Henion,1,0.006944444
+2016,Emails,Lindsy Henion,2,0.013888889
+2017,Emails,Lindsy Henion,1,0.006944444
+2016,Emails,Lindsy Henion,1,0.006944444
+2015,Emails,Lindsy Henion,1,0.006944444
+2015,Emails,Lindsy Henion,1,0.006944444
+2016,Calls,Lindsy Henion,1,0.006944444
+2015,Calls,Lindsy Henion,1,0.006944444
+2016,Calls,Lindsy Henion,1,0.006944444
+2016,Calls,Lindsy Henion,1,0.006944444
+2016,Calls,Lindsy Henion,1,0.006944444
+2017,Meetings,Meryl Pastuch,1,0.006944444
+2016,Emails,Meryl Pastuch,1,0.006944444
+2016,Emails,Meryl Pastuch,1,0.006944444
+2015,Emails,Meryl Pastuch,2,0.013888889
+2015,Emails,Meryl Pastuch,3,0.020833333
+2015,Emails,Meryl Pastuch,1,0.006944444
+2016,Emails,Meryl Pastuch,1,0.006944444
+2015,Calls,Meryl Pastuch,1,0.006944444
+2016,Calls,Meryl Pastuch,1,0.006944444
+2016,Calls,Meryl Pastuch,1,0.006944444
+2015,Calls,Meryl Pastuch,5,0.034722222
+2015,Calls,Meryl Pastuch,2,0.013888889
+2016,Emails,Jose Ringwald,2,0.013888889
+2015,Emails,Jose Ringwald,1,0.006944444
+2016,Emails,Jose Ringwald,1,0.006944444
+2017,Emails,Jose Ringwald,1,0.006944444
+2016,Emails,Jose Ringwald,1,0.006944444
+2016,Emails,Jose Ringwald,1,0.006944444
+2015,Calls,Jose Ringwald,2,0.013888889
+2015,Calls,Jose Ringwald,1,0.006944444
+2016,Calls,Jose Ringwald,1,0.006944444
+2016,Calls,Jose Ringwald,1,0.006944444
+2017,Emails,Kerstin Belveal,1,0.006944444
+2016,Emails,Kerstin Belveal,1,0.006944444
+2015,Emails,Kerstin Belveal,2,0.013888889
+2016,Emails,Kerstin Belveal,2,0.013888889
+2016,Emails,Kerstin Belveal,1,0.006944444
+2016,Emails,Kerstin Belveal,1,0.006944444
+2017,Emails,Kerstin Belveal,6,0.041666667
+2017,Emails,Kerstin Belveal,6,0.041666667
+2015,Calls,Kerstin Belveal,5,0.034722222
+2016,Calls,Kerstin Belveal,1,0.006944444
+2015,Calls,Kerstin Belveal,3,0.020833333
+2017,Calls,Kerstin Belveal,6,0.041666667
+2017,Calls,Kerstin Belveal,6,0.041666667
+2017,Calls,Rosalia Larroque,6,0.041666667
+2017,Calls,Rosalia Larroque,6,0.041666667
+2017,Calls,Kerstin Belveal,7,0.048611111
+2017,Calls,Kerstin Belveal,7,0.048611111
+2017,Calls,Rosalia Larroque,7,0.048611111
+2017,Calls,Rosalia Larroque,7,0.048611111
+2017,Calls,Kerstin Belveal,7,0.048611111
+2017,Calls,Kerstin Belveal,1,0.006944444
+2017,Calls,Kerstin Belveal,1,0.006944444
+2017,Calls,Kerstin Belveal,1,0.006944444
+2017,Calls,Kerstin Belveal,1,0.006944444
+2017,Emails,Patrick Lane,1,0.006944444
+2015,Emails,Patrick Lane,2,0.013888889
+2015,Emails,Patrick Lane,1,0.006944444
+2015,Calls,Patrick Lane,3,0.020833333
+2016,Emails,Glen Grant,1,0.006944444
+2015,Emails,Glen Grant,1,0.006944444
+2016,Emails,Glen Grant,1,0.006944444
+2016,Emails,Glen Grant,1,0.006944444
+2015,Calls,Glen Grant,1,0.006944444
+2017,Emails,Sara Ballard,1,0.006944444
+2017,Emails,Sara Ballard,1,0.006944444
+2016,Emails,Sara Ballard,1,0.006944444
+2015,Calls,Sara Ballard,2,0.013888889
+2017,Emails,Ramiro Gault,1,0.006944444
+2016,Calls,Ramiro Gault,1,0.006944444
+2016,Calls,Ramiro Gault,2,0.013888889
+2015,Calls,Ramiro Gault,2,0.013888889
+2016,Emails,Tobi Gatlin,1,0.006944444
+2016,Emails,Tobi Gatlin,1,0.006944444
+2016,Calls,Tobi Gatlin,1,0.006944444
+2016,Calls,Tobi Gatlin,1,0.006944444
+2015,Calls,Tobi Gatlin,1,0.006944444
+2016,Emails,Julie Tierno,1,0.006944444
+2016,Calls,Julie Tierno,1,0.006944444
+2015,Calls,Julie Tierno,1,0.006944444
+2016,Emails,Augusta Sharp,1,0.006944444
+2016,Emails,Augusta Sharp,1,0.006944444
+2016,Emails,Augusta Sharp,1,0.006944444
+2015,Calls,Augusta Sharp,5,0.034722222
+2016,Calls,Augusta Sharp,1,0.006944444
+2016,Calls,Augusta Sharp,2,0.013888889
+2016,Calls,Augusta Sharp,1,0.006944444
+2017,Calls,Augusta Sharp,1,0.006944444
+2017,Emails,Rosalia Larroque,1,0.006944444
+2017,Emails,Rosalia Larroque,7,0.048611111
+2016,Emails,Rosalia Larroque,1,0.006944444
+2015,Emails,Rosalia Larroque,1,0.006944444
+2016,Emails,Rosalia Larroque,1,0.006944444
+2016,Calls,Rosalia Larroque,1,0.006944444
+2017,Calls,Rosalia Larroque,1,0.006944444
+2017,Calls,Rosalia Larroque,1,0.006944444
+2017,Calls,Rosalia Larroque,1,0.006944444
+2017,Calls,Rosalia Larroque,1,0.006944444
+2017,Calls,Rosalia Larroque,1,0.006944444
+2017,Calls,Rosalia Larroque,1,0.006944444
+2016,Calls,Rosalia Larroque,1,0.006944444
+2015,Calls,Rosalia Larroque,2,0.013888889
+2017,Calls,Rosalia Larroque,1,0.006944444
+2017,Purchases,Rosalia Larroque,7,0.048611111
+2017,Emails,May Burton,1,0.006944444
+2015,Emails,May Burton,3,0.020833333
+2015,Emails,May Burton,2,0.013888889
+2015,Emails,May Burton,1,0.006944444
+2017,Calls,May Burton,1,0.006944444
+2015,Emails,Melita Scarpaci,3,0.020833333
+2015,Calls,Melita Scarpaci,2,0.013888889
+2016,Emails,Lizbeth Jindra,1,0.006944444
+2016,Emails,Dylan Ballard,1,0.006944444
+2015,Emails,Dylan Ballard,2,0.013888889
+2015,Calls,Dylan Ballard,3,0.020833333
+2015,Calls,Dylan Ballard,3,0.020833333
+2015,Calls,Dylan Ballard,1,0.006944444
+2015,Calls,Refugio Orrantia,1,0.006944444
+2016,Calls,Refugio Orrantia,1,0.006944444
+2015,Calls,Refugio Orrantia,3,0.020833333
+2015,Calls,Alex Hall,1,0.006944444
+2016,Calls,Alex Hall,1,0.006944444
